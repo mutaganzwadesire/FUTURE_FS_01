@@ -1,0 +1,57 @@
+img{
+    display: block;
+  }
+  body{
+    font-family: sans-serif, Tahoma;
+  }
+  #image{
+    border-radius: 5px;
+    width: 70%;
+    margin: 0 auto;
+    max-width: 100%;
+    height: auto;
+  }
+  #title{
+    text-align: center;
+    background-color: rgba(0, 0,0, 0.1);
+    padding: 50px;
+    border-radius: 5px 5px 0 0;
+    margin-bottom: 0;
+  }
+  #img-caption{
+    padding-top: 10px;
+    text-align: center;
+  }
+  #tribute-info{
+    background-color: rgba(0, 0, 0, 0.1);
+    border-radius: 0 0 5px 5px;
+    padding: 5px;
+  }
+  #img-div{
+    margin-top: 0;
+    border-left: 15px solid rgba(0, 0, 0, 0.1);
+    border-right: 15px solid rgba(0, 0, 0, 0.1);
+    padding: 15px;
+  }
+  .header{
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+  }
+  #tribute-info p{
+    display: block;
+    padding-left:5px;
+    padding-right: 5px;
+    margin: 0 auto;
+  }
+  .desc{
+    font-weight: bold;
+  }
+  .year{
+    font-weight: bold;
+  }
+  .footer{
+  
+    padding: 10px;
+    text-align: center;
+  }
